@@ -70,13 +70,11 @@ It is built with modern frontend technologies to ensure **fast performance, smoo
   * Tablets
   * Mobile devices
 
----
 
 # 🚀 Live Website
 
 Try the platform here:👉 [APIVerse](https://apisverse.vercel.app/)
 
----
 
 # 🛠 Tech Stack
 
@@ -243,11 +241,10 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-# 👨‍💻 Author
-
-**Kanav Chauhan**
+# 👨‍💻 Author: **Kanav Chauhan**
 
 GitHub: [GitHub](https://github.com/KanavChauhan23)
+
 Portfolio: [Portfolio](https://kanav-public.netlify.app/)
 
 ---
